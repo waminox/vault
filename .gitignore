@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+# Vault data: encrypted blobs, database, temp uploads. Never commit.
+data/
+coverage/
+test-results/
